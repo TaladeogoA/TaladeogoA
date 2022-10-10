@@ -9,15 +9,15 @@
 [![Behance Badge](https://img.shields.io/badge/-Taladeogo-100000?style=for-the-badge&logo=Behance&logoColor=white&labelColor=354B86&color=354B86&Link=https://www.behance.net/taladeogo)](https://www.behance.net/taladeogo)
 
 
-:woman_technologist: I'm a amazing junior front-end developer (if I may say so myself 😉) and UI designer with a desire to learn and grow in a collaborative team environment. I design and build pixel-perfect designs and working with cross-browser compatibility issues.
-Basically I enjoy anything that allows me create something from nothing. 
+:woman_technologist: I'm a fantastic junior front-end developer and UI designer with a strong desire to learn and grow in a collaborative team environment. I create and develop pixel-perfect designs while dealing with cross-browser compatibility issues.
+In general, I enjoy anything that allows me to combine my two favorite hobbies, design and building.
 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Reactjs, Nextjs, SASS and Typescript.
+- 🌱 I’m currently learning Reactjs, Angular, SASS and Flutter.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing ataladeogo@gmail.com.
@@ -33,6 +33,8 @@ Basically I enjoy anything that allows me create something from nothing.
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/styled-components/brand/blob/master/styled-components.svg" title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Wilberson-Roberto/Wilberson-Roberto/blob/main/img/coreldraw.svg" title="Corel Draw" alt="Corel draw" width="40" height="40"/>&nbsp;
