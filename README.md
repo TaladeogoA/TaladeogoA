@@ -43,6 +43,3 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaladeogoA&layout=compact&theme=vision-friendly-dark" alt="Talade's GitHub stats" />
