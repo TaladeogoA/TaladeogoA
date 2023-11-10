@@ -43,3 +43,5 @@
 </div>
 
 ---
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TaladeogoA&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
