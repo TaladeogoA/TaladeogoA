@@ -18,7 +18,7 @@
 - 💡 Fun fact: I'm an alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning C#, .NET and React Native.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and junior-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer (Junior level).
 - 📫 You can contact me by emailing ataladeogo@gmail.com.
 
 ---
