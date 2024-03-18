@@ -9,7 +9,7 @@
 [![Behance Badge](https://img.shields.io/badge/-Taladeogo-100000?style=for-the-badge&logo=Behance&logoColor=white&labelColor=354B86&color=354B86&Link=https://www.behance.net/taladeogo)](https://www.behance.net/taladeogo)
 
 
-:woman_technologist: I'm a passionate junior front-end developer and UI designer with a strong desire to learn and grow in a collaborative team environment. I specialize in creating pixel-perfect designs and handling cross-browser compatibility issues. I love combining design and development to create exceptional user experiences.
+:woman_technologist: I'm a passionate front-end developer and UI designer with a strong desire to learn and grow in a collaborative team environment. I specialize in creating pixel-perfect designs and handling cross-browser compatibility issues. I love combining design and development to create exceptional user experiences.
 
 
 **Here's a quick summary about me**:
@@ -17,8 +17,8 @@
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm an alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning C#, .NET and React Native.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and junior-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer (Junior level).
+- 😊 I’m looking for help with open source projects, hackathons, and opportunities.
+- 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer.
 - 📫 You can contact me by emailing ataladeogo@gmail.com.
 
 ---
