@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100"/>
-</div>
-<br>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hello+there.+I'm+Talade.+%F0%9F%91%8B%F0%9F%8F%BE)](https://git.io/typing-svg)
