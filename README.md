@@ -17,7 +17,7 @@
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm an alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning C#, .NET and React Native.
+- 🌱 I’m currently learning Node.js, Express and Framer Motion.
 - 😊 I’m looking for help with open source projects, hackathons, and opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer.
 - 📫 You can contact me by emailing ataladeogo@gmail.com.
