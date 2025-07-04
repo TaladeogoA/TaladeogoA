@@ -19,7 +19,7 @@
 
 - 😊 Pronouns: She/her
 - 🎓 AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Alumni - Class of 2022
-- 🌱 Currently exploring: Node.js, Express, and Framer Motion
+- 🌱 Currently exploring: Backend development with Node.js and Express
 - 🤝 Open to: Open source projects, hackathons, and new opportunities
 - 💼 Interested in roles: Software Engineer, Front-end Engineer, or UI Engineer
 - 📫 Reach me at: ataladeogo@gmail.com
