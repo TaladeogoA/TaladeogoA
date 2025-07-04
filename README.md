@@ -4,6 +4,7 @@
 
 </div>
 
+[![Website Badge](https://img.shields.io/badge/-talade.tech-8A2BE2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.talade.tech)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taladeogo/)](https://www.linkedin.com/in/taladeogo/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-100000?style=for-the-badge&logo=Behance&logoColor=white&labelColor=354B86&color=354B86&Link=https://www.behance.net/taladeogo)](https://www.behance.net/taladeogo)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataladeogo@gmail.com)
